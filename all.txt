@@ -320,10 +320,3 @@ https://www.gitpod.io/.well-known/security.txt
 https://pyscript.net/.well-known/security.txt
 https://www.byte-physics.de/.well-known/security.txt
 http://codeish.co/.well-known/security.txt
-https://www.seznam.cz/.well-known/security.txt
-https://translate.google.com/translate?hl=en&sl=cs&u=https://www.seznam.cz/.well-known/security.txt&prev=search&pto=aue
-https://pigment.app/.well-known/security.txt
-https://www.byte-physics.de/.well-known/security.txt
-https://www.dnv.com/.well-known/security.txt
-https://free.fr/.well-known/security.txt
-http://codeish.co/.well-known/security.txt
