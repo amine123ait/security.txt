@@ -387,14 +387,14 @@ https://translate.google.com/translate?hl=en&sl=sv&u=http://solvesborg.se/.well-
 https://avm.de/.well-known/security.txt
 https://monkeytype.com/.well-known/security.txt
 https://www.canalbox.tg/.well-known/security.txt
-https://translate.google.com/translate?hl=en&sl=fr&u=https://www.canalbox.tg/.well-known/security.txt&prev=search&pto=aue
+https://www.canalbox.tg/.well-known/security.txt&prev=search&pto=aue
 https://www.t-mobile.cz/.well-known/security.txt
 https://www.borgarbyggd.is/.well-known/security.txt
 https://translate.google.com/translate?hl=en&sl=is&u=https://www.borgarbyggd.is/.well-known/security.txt&prev=search&pto=aue
 https://vinceh121.me/.well-known/security.txt
 https://eresmedioambiente.com/.well-known/security.txt
-https://translate.google.com/translate?hl=en&sl=es&u=https://eresmedioambiente.com/.well-known/security.txt&prev=search&pto=aue
+https://eresmedioambiente.com/.well-known/security.txt&prev=search&pto=aue
 https://migros.ch/.well-known/security.txt
 https://jschpp.de/.well-known/security.txt
 http://www.eresmedioambiente.com/.well-known/security.txt
-https://translate.google.com/translate?hl=en&sl=es&u=http://www.eresmedioambiente.com/.well-known/security.txt&prev=search&pto=aue
+http://www.eresmedioambiente.com/.well-known/security.txt&prev=search&pto=aue
